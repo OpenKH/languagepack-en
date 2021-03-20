@@ -1937,9 +1937,9 @@
 - id: 2693
   en: Other Game Files
 - id: 2694
-  en: '{:width 81}MEMORY CARD slot 1'
+  en: Slot 1
 - id: 2695
-  en: '{:width 81}MEMORY CARD slot 2'
+  en: Slot 2
 - id: 2696
   en: Return to the title screen.
 - id: 2697
@@ -8258,7 +8258,7 @@
 
     of friends faraway.
 - id: 20099
-  en: Dodge Roll LV 1
+  en: Dodge Roll LV1
 - id: 20100
   en: >-
     Dodge enemy attacks by tilting
@@ -8267,7 +8267,7 @@
 
     More efficient at higher Levels.
 - id: 20101
-  en: Dodge Roll LV 2
+  en: Dodge Roll LV2
 - id: 20102
   en: >-
     Dodge enemy attacks by tilting
@@ -8276,7 +8276,7 @@
 
     More efficient at higher Levels.
 - id: 20103
-  en: Dodge Roll LV 3
+  en: Dodge Roll LV3
 - id: 20104
   en: >-
     Dodge enemy attacks by tilting
@@ -8303,7 +8303,7 @@
 
     Limit Form is usable.
 - id: 20109
-  en: Sonic Rave
+  en: Sonic Blade
 - id: 20110
   en: >-
     A Limit Command that unleashes an attack
@@ -8312,7 +8312,7 @@
 
     the right tempo for a combo. {:color #F0F00080}MP Cost:{:width 100} 60{:reset}
 - id: 20111
-  en: Last Arcanum
+  en: Ars Arcanum
 - id: 20112
   en: >-
     A Limit Command that unleashes
